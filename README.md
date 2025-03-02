@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smitellos
 - 👀 I’m interested in DevOps and Software Development
-- 🌱 I’m currently learning GO and C#
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on some interesting projects.
 
 <!---
